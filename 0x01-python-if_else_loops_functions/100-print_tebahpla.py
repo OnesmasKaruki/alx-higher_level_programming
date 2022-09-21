@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-def remove_char_at(str, n):
-    if n < 0:
-        return (str)
-    return (str[:n] + str[n+1:])
+for i in range(122, 96, -1):
+    if (i % 2 != 0):
+        print('{}'.format(chr(i - 32)), end='')
+    else:
+        print('{}'.format(chr(i)), end='')
