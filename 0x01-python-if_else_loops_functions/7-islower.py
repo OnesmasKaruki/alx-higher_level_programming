@@ -7,4 +7,3 @@ def islower(char):
         return True
     else:
         False
-
