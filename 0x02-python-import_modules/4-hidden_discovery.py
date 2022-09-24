@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-fibo.py hidden_4
+import hidden_4
 
 
 def principal():
