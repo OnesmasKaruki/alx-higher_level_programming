@@ -1,1 +1,1 @@
-Replace element in list without modifying list
+Remove all characters c and C
