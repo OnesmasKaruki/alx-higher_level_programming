@@ -1,1 +1,1 @@
-Prints integer of a string
+Retrive element from a list
