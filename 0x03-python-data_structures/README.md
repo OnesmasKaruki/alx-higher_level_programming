@@ -1,1 +1,1 @@
-Reverse element in a list
+Replace element in list without modifying list
