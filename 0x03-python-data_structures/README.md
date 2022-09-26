@@ -1,1 +1,1 @@
-Remove all characters c and C
+Delete element in list
