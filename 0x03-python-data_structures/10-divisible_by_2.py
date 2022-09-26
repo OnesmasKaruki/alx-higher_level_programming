@@ -6,7 +6,8 @@ def divisible_by_2(my_list=[]):
     multiples = []
     for elem in range(len(my_list)):
         if my_list[elem] % 2 == 0:
-             multiples.append(True)
+            multiples.append(True)
         else:
             multiples.append(False)
+
     return (multiples)
