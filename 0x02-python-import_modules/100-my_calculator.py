@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 from calculator_1 import add, mul, sub, div
-if __name__ == '__main__':
-    import sys
 
 def arg_calc(argv):
     arg_calc(sys.argv)
@@ -23,3 +21,8 @@ def arg_calc(argv):
     else:
         print("Unknown operator. Available operators: +, -, * and /")
         exit(1)
+
+
+        if __name__ == "__main__":
+            import sys
+            arg_cal(sys.argv)
