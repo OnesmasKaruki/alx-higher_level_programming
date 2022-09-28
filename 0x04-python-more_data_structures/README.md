@@ -1,1 +1,1 @@
-Find square of integer in matrix
+Replace occurence of element with new
