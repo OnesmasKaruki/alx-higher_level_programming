@@ -1,1 +1,1 @@
-print x element of list and only integer
+Divide 2 integers and print the result
