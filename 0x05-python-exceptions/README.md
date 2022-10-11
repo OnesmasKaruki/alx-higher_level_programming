@@ -1,1 +1,1 @@
-Print x element in list with exception of IndexError
+Prnt integer &return True if int else False
