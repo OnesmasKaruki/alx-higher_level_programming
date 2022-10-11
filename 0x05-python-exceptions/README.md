@@ -1,1 +1,1 @@
-Prnt integer &return True if int else False
+print x element of list and only integer
