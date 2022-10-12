@@ -1,1 +1,1 @@
-Divion of element in two list
+Raise exception
