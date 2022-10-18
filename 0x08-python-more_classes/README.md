@@ -1,0 +1,1 @@
+Empty Rectangle clas
