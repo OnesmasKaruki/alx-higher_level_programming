@@ -1,12 +1,12 @@
 #!/usr/bin/python3
-'''Module: 1-my_list
+''' Module: 1-my_list
 '''
 
-class Mylist(list):
-    '''Represent a Mylist
+class MyList(list):
+    ''' Represents a MyList
     '''
-
-    def print_dorted(self):
-        '''print the list but sorted
+    def print_sorted(self):
         '''
-        print9sorted((self))
+        prints the list, but sorted
+        '''
+        print(sorted(self))
