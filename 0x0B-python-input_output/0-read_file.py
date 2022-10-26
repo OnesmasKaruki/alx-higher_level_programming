@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-'''Read module'''
+"""Read module"""
 
 def read_file(filename=""):
     """Read text file"""
