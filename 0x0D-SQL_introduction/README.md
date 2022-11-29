@@ -19,3 +19,9 @@
 > list all record with id = 89
 ## Task 9
 >> ADD table second_table
+### Task ten
+>>List oout the highest score in second_table
+# Task 11
+> List score >= 10
+# Task 12
+> Update score from Bob to 10
