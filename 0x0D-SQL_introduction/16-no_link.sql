@@ -1,11 +1,7 @@
--- Lists all shows and genres linked to the show from the
--- database hbtn_0d_tvshows.
--- Records are ordered by ascending show title and genre name.
-SELECT t.`title`, g.`name`
-  FROM `tv_shows` AS t
-       LEFT JOIN `tv_show_genres` AS s
-       ON t.`id` = s.`show_id`
+-- a script that lists all records of the 
+-- table second_table of the database hbtn_0c_0
+-- Dont list rows without a name value
+-- Results should display the score and the name (in this order)
+-- Records should be listed by descending score
 
-       LEFT JOIN `tv_genres` AS g
-       ON s.`genre_id` = g.`id`
- ORDER BY t.`title`, g.`name`;
+SELECT score, name FROM second_table WHERE name IS NOT NULL AND name != '' ORDER BY score DESC;
