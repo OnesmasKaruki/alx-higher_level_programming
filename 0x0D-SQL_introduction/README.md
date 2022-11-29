@@ -11,3 +11,7 @@
 > Create table firstname
 ## Tak 5
 >Display firt_table
+### Task 6
+>List all rows
+### Task 7
+>>Insert new row
