@@ -14,4 +14,8 @@
 ### Task 6
 >List all rows
 ### Task 7
->>Insert new row
+>>Insert new 
+### Task 8
+> list all record with id = 89
+## Task 9
+>> ADD table second_table
