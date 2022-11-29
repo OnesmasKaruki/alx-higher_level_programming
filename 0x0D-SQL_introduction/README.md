@@ -25,3 +25,10 @@
 > List score >= 10
 # Task 12
 > Update score from Bob to 10
+
+# Task 13
+Remove all score <= 5
+ ## Task 14
+ Compute the mean on second_table
+ ## Tak 15
+ Display number of record with same score
