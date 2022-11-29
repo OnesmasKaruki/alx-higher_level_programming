@@ -2,4 +2,4 @@
 --If the database htbn_0c_0 already exist it should not fail
 --SELECT or show statement are forbiden
 
-CREATE DATABASES IF NOT EXUSTS httbn_0c_0;
+CREATE DATABASE IF NOT EXISTS hbtn_0c_0;
